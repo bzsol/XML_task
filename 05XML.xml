@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YoungAfricanNobelPrizeWinners>
+    <Person>
+        <FullName>Malala Yousafzai</FullName>
+        <Date>1997-07-12</Date>
+        <Country>Pakistan</Country>
+        <NobelPrize>
+            <AwardYear>2014</AwardYear>
+            <AwardCategory>Peace</AwardCategory>
+        </NobelPrize>
+        <Age>27</Age>
+    </Person>
+    <Person>
+        <FullName>Nadia Murad</FullName>
+        <Date>1993-00-00</Date>
+        <Country>Iraq</Country>
+        <NobelPrize>
+            <AwardYear>2018</AwardYear>
+            <AwardCategory>Peace</AwardCategory>
+        </NobelPrize>
+        <Age>31</Age>
+    </Person>
+</YoungAfricanNobelPrizeWinners>

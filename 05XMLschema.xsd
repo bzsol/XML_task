@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified"> 
+    <xs:element name="YoungAfricanNobelPrizeWinners">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element ref="Person" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    <xs:element name="Person">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="FullName" type="xs:string"/>
+                <xs:element name="Date" type="xs:string"/>
+                <xs:element name="Country" type="xs:string"/>
+                <xs:element name="NobelPrize">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="AwardYear" type="xs:string"/>
+                            <xs:element name="AwardCategory" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+                <xs:element name="Age" type="xs:integer"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    
+    
+    
+</xs:schema>

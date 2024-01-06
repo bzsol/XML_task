@@ -1,0 +1,47 @@
+[
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Imre Kertész",
+        "latitude": 47,
+        "birthDate": "1929-11-09",
+        "longitude": 19,
+        "id": 761
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "George A. Olah",
+        "latitude": 47,
+        "birthDate": "1927-05-22",
+        "longitude": 19,
+        "id": 280
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "John C. Harsanyi",
+        "latitude": 47,
+        "birthDate": "1920-05-29",
+        "longitude": 19,
+        "id": 711
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Eugene Wigner",
+        "latitude": 47,
+        "birthDate": "1902-11-17",
+        "longitude": 19,
+        "id": 78
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Dennis Gabor",
+        "latitude": 47,
+        "birthDate": "1900-06-05",
+        "longitude": 19,
+        "id": 93
+    }
+]

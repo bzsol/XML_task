@@ -17,6 +17,12 @@ return validate {
                  $laureates?motivation?en  
                 }
             </Motivation>
+            <Portion>
+                {
+                 $laureates?portion  
+                }
+            </Portion>
+            
          </Winner>
         }
         </NobelPrizeWinners>

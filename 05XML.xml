@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YoungAfricanNobelPrizeWinners>
+    <Person>
+        <FullName>Abiy Ahmed Ali</FullName>
+        <Date>1976-08-15</Date>
+        <Country>Ethiopia</Country>
+        <NobelPrize>
+            <AwardYear>2019</AwardYear>
+            <AwardCategory>Peace</AwardCategory>
+        </NobelPrize>
+    </Person>
+    <Person>
+        <FullName>Leymah Gbowee</FullName>
+        <Date>1972-02-01</Date>
+        <Country>Liberia</Country>
+        <NobelPrize>
+            <AwardYear>2011</AwardYear>
+            <AwardCategory>Peace</AwardCategory>
+        </NobelPrize>
+    </Person>
+</YoungAfricanNobelPrizeWinners>

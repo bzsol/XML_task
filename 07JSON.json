@@ -1,0 +1,42 @@
+[
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Imre Kertész",
+        "latitude": "47.000000",
+        "longitude": "19.000000",
+        "id": "761"
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "George A. Olah",
+        "latitude": "47.000000",
+        "longitude": "19.000000",
+        "id": "280"
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "John C. Harsanyi",
+        "latitude": "47.000000",
+        "longitude": "19.000000",
+        "id": "711"
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Eugene Wigner",
+        "latitude": "47.000000",
+        "longitude": "19.000000",
+        "id": "78"
+    },
+    {
+        "gender": "male",
+        "city": "Budapest",
+        "name": "Dennis Gabor",
+        "latitude": "47.000000",
+        "longitude": "19.000000",
+        "id": "93"
+    }
+]

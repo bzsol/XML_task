@@ -1,30 +1,43 @@
 xquery version "3.1";
 import schema default element namespace "" at "01XMLschema.xsd";
 let $url := json-doc("https://api.nobelprize.org/2.1/nobelPrizes?limit=800")
-return validate { 
-    document {
+return validate { document {
+    
         <NobelPrizeWinners>
         {
-         for $laureates in $url?nobelPrizes?*?laureates?*
+         for $item in $url?nobelPrizes?* where $item?category?en = "Chemistry" or  $item?category?en = "Physics" order by count($item?laureates?*) descending
           return <Winner>
-            <Name>
+            <AwardDate>
+            <Year>
             {
-                $laureates?knownName?en
+                $item?awardYear
             }
-            </Name>
-            <Motivation>
+            </Year>
+            <ExactDate>
                 {
-                 $laureates?motivation?en  
+                if(fn:exists($item?dateAwarded)) then $item?dateAwarded else "DNE"
                 }
-            </Motivation>
-            <Portion>
+            </ExactDate>
+            </AwardDate>
+            <NumberOLaureates>
                 {
-                 $laureates?portion  
+                count($item?laureates?*)
                 }
-            </Portion>
-            
+            </NumberOLaureates>
+            <Category>
+                <ShortenedEnglish>
+                    {
+                       $item?category?en 
+                    }
+                </ShortenedEnglish>
+                <FullName>
+                    {
+                        $item?categoryFullName?en
+                    }
+                </FullName>
+            </Category>
          </Winner>
         }
         </NobelPrizeWinners>
-    }
+        }
     }

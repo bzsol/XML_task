@@ -1,6 +1,7 @@
 xquery version "3.1";
 import schema default element namespace "" at "06XMLschema.xsd";
 let $url := json-doc("https://api.nobelprize.org/2.1/laureates?limit=1000")
+(: A még életben lévő Európai és női díjazottak kiírása:)
 return validate  { document {
     <StillAliveNobelPrizeWinners>
         {
@@ -12,6 +13,7 @@ return validate  { document {
                 $data?id
                 }
             </ID>
+            <Name>
             <GivenName>
                 {
                 $data?givenName?en
@@ -22,6 +24,7 @@ return validate  { document {
                 $data?familyName?en
                 }
             </FamilyName>
+            </Name>     
             <BirthPlace>
                 <Date>
                 {

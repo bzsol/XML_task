@@ -12,8 +12,14 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="ID" type="xs:string"/>
-                <xs:element name="GivenName" type="xs:string"/>
-                <xs:element name="FamilyName" type="xs:string"/>
+                <xs:element name="Name">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="GivenName" type="xs:string"/>
+                            <xs:element name="FamilyName" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
                 <xs:element name="BirthPlace">
                     <xs:complexType>
                         <xs:sequence>

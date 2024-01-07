@@ -9,6 +9,8 @@ declare option output:indent "yes";
 
 let $data := json-doc("https://api.nobelprize.org/2.1/laureates")?laureates?*
 
+(: Nobel díjasok hány évesen kapták meg az első Nobel díjukat, illetve mikor hunytak el/ élnek még-e :)
+
 return array {
     for $item in $data
 

@@ -1,6 +1,7 @@
 xquery version "3.1";
 import schema default element namespace "" at "05XMLschema.xsd";
 let $url := json-doc("https://api.nobelprize.org/2.1/laureates?limit=1000")
+(: Fiatal Afrikai Nobel díjasok kiírása akik 1970 után születtek :)
 return validate  { document {
     <YoungAfricanNobelPrizeWinners>
         {

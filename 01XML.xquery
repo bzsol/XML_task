@@ -1,6 +1,7 @@
 xquery version "3.1";
 import schema default element namespace "" at "01XMLschema.xsd";
 let $url := json-doc("https://api.nobelprize.org/2.1/nobelPrizes?limit=800")
+(: A kémia és fizika Nobel díjak kiírása díjazottak száma alapján rendezve adott évben :)
 return validate { document {
     
         <NobelPrizeWinners>

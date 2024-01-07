@@ -9,6 +9,8 @@ declare option output:indent "yes";
 
 let $data := json-doc("https://api.nobelprize.org/2.1/laureates?limit=800")?laureates?* 
 
+(: Hány Nobel díjasunk van aki nő és el tudott nyerni 2 Nobel díjat is :)
+
 let $ans := (
     for $item in $data
     where $item?gender = "female" and count($item?nobelPrizes?*) > 1

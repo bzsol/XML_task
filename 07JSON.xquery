@@ -6,6 +6,7 @@ declare option output:method "json";
 declare option output:media-type "application/json";
 declare option output:indent "yes";
 
+(: Budapesti és 1900 után született Nobel díjasaink kiírása :)
 
 let $data := json-doc("https://api.nobelprize.org/2.1/laureates?limit=800")?laureates?*
 

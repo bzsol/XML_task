@@ -1,14 +1,14 @@
 xquery version "3.1";
 let $url := json-doc("https://api.nobelprize.org/2.1/nobelPrizes?limit=800")
-
+(: Fizika nobej díj nyertesek 2000 után HTMl formátumban és a hozzá tartozó linkekkel :)
 let $html := 
 
 <html>
 <head>
-<title>Kémia Nobel díj nyertesek</title>
+<title>Fizika Nobel díj nyertesek 2000 után</title>
 </head>
 <body>
-<h1>Chemistry Nobel Prize winners</h1>
+<h1>Physics Nobel Prize winners after 2000</h1>
 <div>
 <table>
 <thead>

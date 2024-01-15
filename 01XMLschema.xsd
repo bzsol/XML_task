@@ -3,19 +3,20 @@
     <xs:element name="NobelPrizeWinners">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="Winner" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="WinnersWhoWonChemistryAndPhysics" minOccurs="0" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="Winner">
+
+    <xs:element name="WinnersWhoWonChemistryAndPhysics">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="AwardDate">
                     <xs:complexType>
                         <xs:sequence>
                             <xs:element name="Year" type="xs:string"/>
-                            <xs:element name="ExactDate" type="xs:string"/>
+                            <xs:element name="ExactDate" maxOccurs="unbounded" minOccurs="0" type="xs:string"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>
@@ -25,6 +26,15 @@
                         <xs:sequence>
                             <xs:element name="ShortenedEnglish" type="xs:string"/>
                             <xs:element name="FullName" type="xs:string"/>
+                        </xs:sequence>
+                    </xs:complexType>
+                    
+                </xs:element>
+                <xs:element name="Prize">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="Amount" type="xs:double"/>
+                            <xs:element name="Adjusted" type="xs:double"/>
                         </xs:sequence>
                     </xs:complexType>
                 </xs:element>

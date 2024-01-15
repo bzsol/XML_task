@@ -7,26 +7,22 @@ declare option output:media-type "application/json";
 declare option output:indent "yes";
 
 (: Budapesti és 1900 után született Nobel díjasaink kiírása :)
-
 let $data := json-doc("https://api.nobelprize.org/2.1/laureates?limit=800")?laureates?*
 
 return
     array {
-        
         for $item in $data
-            where $item?birth?place?city?en = "Budapest"
-            and
-            "1900-01-01" <= $item?birth?date
-            order by $item?birth?date descending
+        where $item?birth?place?city?en = "Budapest"
+          and xs:date("1900-01-01") le xs:date($item?birth?date)
+        order by xs:date($item?birth?date) descending
         return
             map {
-                "id": $item?id,
+                "id": xs:integer($item?id),
                 "name": $item?knownName?en,
                 "gender": $item?gender,
-                "latitude": $item?birth?place?countryNow?latitude,
-                "longitude": $item?birth?place?countryNow?longitude,
-                "city": $item?birth?place?cityNow?en
-                
+                "latitude": xs:double($item?birth?place?countryNow?latitude),
+                "longitude": xs:double($item?birth?place?countryNow?longitude),
+                "city": $item?birth?place?cityNow?en,
+                "birthDate": xs:date($item?birth?date)
             }
-    
     }

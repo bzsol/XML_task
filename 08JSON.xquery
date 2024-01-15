@@ -7,19 +7,20 @@ declare option output:method "json";
 declare option output:media-type "application/json";
 declare option output:indent "yes";
 
-let $data := json-doc("https://api.nobelprize.org/2.1/laureates")?laureates?*
+let $data := json-doc("https://api.nobelprize.org/2.1/laureates?limit=1000")?laureates?*
 
-(: Nobel díjasok hány évesen kapták meg az első Nobel díjukat, illetve mikor hunytak el/ élnek még-e :)
+(: Hány Nobel díjas van aki 40 év alatt szerezte a díját és még életben van :)
 
-return array {
+let $youngWinnersStillAlive := count(
     for $item in $data
+    let $birthYear := if (fn:string-length($item?birth?date) > 0) then xs:integer(fn:substring($item?birth?date, 0, 5)) else ()
+    let $ageAtFirstPrize := if (fn:exists($birthYear) and fn:exists($item?nobelPrizes?*[1]?awardYear))
+                            then xs:integer($item?nobelPrizes?*[1]?awardYear) - $birthYear
+                            else ()
+    where fn:exists($birthYear) and fn:exists($item?nobelPrizes?*[1]?awardYear) and $ageAtFirstPrize < 40 and not(fn:exists($item?death?date))
+    return $item
+)
 
-    return map {
-    "name" : $item?knownName?en,
-    "gender" : $item?gender,
-    "birthday": $item?birth?date,
-    "deathDate":  if(fn:exists($item?death))  then (xs:date($item?death?date)) else  ("he/she is still alive") ,
-    "winnerAge" : xs:integer($item?nobelPrizes?*[1]?awardYear) - xs:integer(fn:substring($item?birth?date,0,5))
-    
-    }
+return map {
+    "YoungWinnersStillAliveCount": $youngWinnersStillAlive
 }

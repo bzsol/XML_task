@@ -5,7 +5,7 @@ let $url := json-doc("https://api.nobelprize.org/2.1/laureates?limit=1000")
 return validate  { document {
     <StillAliveNobelPrizeWinners>
         {
-            for $data in $url?laureates?* where not(fn:exists($data?death)) and $data?birth?place?continent?en = "Europe" and $data?gender = "female"
+            for $data in $url?laureates?* where not(fn:exists($data?death)) and $data?birth?place?continent?en = "Europe" and $data?gender = "female" order by $data?birth?date descending
             
             return <Person>
             <ID>

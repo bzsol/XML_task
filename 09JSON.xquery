@@ -9,14 +9,24 @@ declare option output:indent "yes";
 
 let $data := json-doc("https://api.nobelprize.org/2.1/laureates?limit=800")?laureates?* 
 
-(: Hány Nobel díjasunk van aki nő és el tudott nyerni 2 Nobel díjat is :)
-
-let $ans := (
+(: Hány olyan női nobel díjas van Európában, aki 1860 és 1900 között született :)
+let $femaleEuropeanWinners := (
     for $item in $data
-    where $item?gender = "female" and count($item?nobelPrizes?*) > 1
-    return count($item?knownName?en)
+    where $item?gender = "female"
+    and $item?birth?place?continent?en = "Europe"
+    and xs:date("1860-01-01") le xs:date($item?birth?date)
+    and xs:date($item?birth?date) le xs:date("1900-12-31")
+    return $item
 )
 
-return map {
-    "Answer": $ans
-}
+let $femaleEuropeanWinnersByCountry :=
+    array {
+        for $winner in $femaleEuropeanWinners
+        group by $country := $winner?birth?place?country?en
+        return map {
+            "Country": $country,
+            "Count": count($winner)
+        }
+    }
+
+return $femaleEuropeanWinnersByCountry

@@ -7,18 +7,20 @@ return validate { document {
         <NobelPrizeWinners>
         {
          for $item in $url?nobelPrizes?* where $item?category?en = "Chemistry" or  $item?category?en = "Physics" order by count($item?laureates?*) descending
-          return <Winner>
+          return <WinnersWhoWonChemistryAndPhysics>
             <AwardDate>
             <Year>
             {
                 $item?awardYear
             }
             </Year>
-            <ExactDate>
+            
                 {
-                if(fn:exists($item?dateAwarded)) then $item?dateAwarded else "DNE"
+                    if (fn:exists($item?dateAwarded)) then
+                    <ExactDate>{$item?dateAwarded}</ExactDate>
+                    else ""
                 }
-            </ExactDate>
+            
             </AwardDate>
             <NumberOLaureates>
                 {
@@ -37,7 +39,15 @@ return validate { document {
                     }
                 </FullName>
             </Category>
-         </Winner>
+            <Prize>
+                <Amount>
+                       {$item?prizeAmount}
+                </Amount>
+                <Adjusted>
+                       {$item?prizeAmountAdjusted}
+                </Adjusted>
+            </Prize>
+         </WinnersWhoWonChemistryAndPhysics>
         }
         </NobelPrizeWinners>
         }

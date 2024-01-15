@@ -7,7 +7,7 @@ return validate  { document {
         {
             for $data in $url?laureates?* where $data?gender = "female" order by $data?birth?date descending
             
-            return <Person>
+            return <Laureates>
             <FullName>
                 {
                 $data?knownName?en
@@ -34,7 +34,7 @@ return validate  { document {
               }
             </PrizeNumber>
             
-            </Person>
+            </Laureates>
             
             
                 

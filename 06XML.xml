@@ -1,22 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <StillAliveNobelPrizeWinners>
     <Person>
-        <ID>991</ID>
-        <Name>
-            <GivenName>Emmanuelle</GivenName>
-            <FamilyName>Charpentier</FamilyName>
-        </Name>
-        <BirthPlace>
-            <Date>1968-12-11</Date>
-            <Country>France</Country>
-            <City>Juvisy-sur-Orge</City>
-        </BirthPlace>
-        <NobelPrizes>
-            <AwardYear>2020</AwardYear>
-            <Motivation>for the development of a method for genome editing</Motivation>
-        </NobelPrizes>
-    </Person>
-    <Person>
         <ID>983</ID>
         <Name>
             <GivenName>Esther</GivenName>
@@ -33,35 +17,19 @@
         </NobelPrizes>
     </Person>
     <Person>
-        <ID>979</ID>
+        <ID>991</ID>
         <Name>
-            <GivenName>Olga</GivenName>
-            <FamilyName>Tokarczuk</FamilyName>
+            <GivenName>Emmanuelle</GivenName>
+            <FamilyName>Charpentier</FamilyName>
         </Name>
         <BirthPlace>
-            <Date>1962-01-29</Date>
-            <Country>Poland</Country>
-            <City>Sulechów</City>
+            <Date>1968-12-11</Date>
+            <Country>France</Country>
+            <City>Juvisy-sur-Orge</City>
         </BirthPlace>
         <NobelPrizes>
-            <AwardYear>2018</AwardYear>
-            <Motivation>for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life</Motivation>
-        </NobelPrizes>
-    </Person>
-    <Person>
-        <ID>924</ID>
-        <Name>
-            <GivenName>Svetlana</GivenName>
-            <FamilyName>Alexievich</FamilyName>
-        </Name>
-        <BirthPlace>
-            <Date>1948-05-31</Date>
-            <Country>Ukraine</Country>
-            <City>Ivano-Frankivsk</City>
-        </BirthPlace>
-        <NobelPrizes>
-            <AwardYear>2015</AwardYear>
-            <Motivation>for her polyphonic writings, a monument to suffering and courage in our time</Motivation>
+            <AwardYear>2020</AwardYear>
+            <Motivation>for the development of a method for genome editing</Motivation>
         </NobelPrizes>
     </Person>
     <Person>
@@ -81,6 +49,54 @@
         </NobelPrizes>
     </Person>
     <Person>
+        <ID>979</ID>
+        <Name>
+            <GivenName>Olga</GivenName>
+            <FamilyName>Tokarczuk</FamilyName>
+        </Name>
+        <BirthPlace>
+            <Date>1962-01-29</Date>
+            <Country>Poland</Country>
+            <City>Sulechów</City>
+        </BirthPlace>
+        <NobelPrizes>
+            <AwardYear>2018</AwardYear>
+            <Motivation>for a narrative imagination that with encyclopedic passion represents the crossing of boundaries as a form of life</Motivation>
+        </NobelPrizes>
+    </Person>
+    <Person>
+        <ID>1028</ID>
+        <Name>
+            <GivenName>Anne</GivenName>
+            <FamilyName>L’Huillier</FamilyName>
+        </Name>
+        <BirthPlace>
+            <Date>1958-08-16</Date>
+            <Country>France</Country>
+            <City>Paris</City>
+        </BirthPlace>
+        <NobelPrizes>
+            <AwardYear>2023</AwardYear>
+            <Motivation>for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter</Motivation>
+        </NobelPrizes>
+    </Person>
+    <Person>
+        <ID>1024</ID>
+        <Name>
+            <GivenName>Katalin</GivenName>
+            <FamilyName>Karikó</FamilyName>
+        </Name>
+        <BirthPlace>
+            <Date>1955-01-17</Date>
+            <Country>Hungary</Country>
+            <City>Szolnok</City>
+        </BirthPlace>
+        <NobelPrizes>
+            <AwardYear>2023</AwardYear>
+            <Motivation>for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19</Motivation>
+        </NobelPrizes>
+    </Person>
+    <Person>
         <ID>844</ID>
         <Name>
             <GivenName>Herta</GivenName>
@@ -94,6 +110,22 @@
         <NobelPrizes>
             <AwardYear>2009</AwardYear>
             <Motivation>who, with the concentration of poetry and the frankness of prose, depicts the landscape of the dispossessed</Motivation>
+        </NobelPrizes>
+    </Person>
+    <Person>
+        <ID>924</ID>
+        <Name>
+            <GivenName>Svetlana</GivenName>
+            <FamilyName>Alexievich</FamilyName>
+        </Name>
+        <BirthPlace>
+            <Date>1948-05-31</Date>
+            <Country>Ukraine</Country>
+            <City>Ivano-Frankivsk</City>
+        </BirthPlace>
+        <NobelPrizes>
+            <AwardYear>2015</AwardYear>
+            <Motivation>for her polyphonic writings, a monument to suffering and courage in our time</Motivation>
         </NobelPrizes>
     </Person>
     <Person>
@@ -158,38 +190,6 @@
         <NobelPrizes>
             <AwardYear>1995</AwardYear>
             <Motivation>for their discoveries concerning the genetic control of early embryonic development</Motivation>
-        </NobelPrizes>
-    </Person>
-    <Person>
-        <ID>1028</ID>
-        <Name>
-            <GivenName>Anne</GivenName>
-            <FamilyName>L’Huillier</FamilyName>
-        </Name>
-        <BirthPlace>
-            <Date>1958-08-16</Date>
-            <Country>France</Country>
-            <City>Paris</City>
-        </BirthPlace>
-        <NobelPrizes>
-            <AwardYear>2023</AwardYear>
-            <Motivation>for experimental methods that generate attosecond pulses of light for the study of electron dynamics in matter</Motivation>
-        </NobelPrizes>
-    </Person>
-    <Person>
-        <ID>1024</ID>
-        <Name>
-            <GivenName>Katalin</GivenName>
-            <FamilyName>Karikó</FamilyName>
-        </Name>
-        <BirthPlace>
-            <Date>1955-01-17</Date>
-            <Country>Hungary</Country>
-            <City>Szolnok</City>
-        </BirthPlace>
-        <NobelPrizes>
-            <AwardYear>2023</AwardYear>
-            <Motivation>for their discoveries concerning nucleoside base modifications that enabled the development of effective mRNA vaccines against COVID-19</Motivation>
         </NobelPrizes>
     </Person>
     <Person>

@@ -3,12 +3,12 @@
     <xs:element name="FemaleNobelPrizeWinners">
         <xs:complexType>
             <xs:sequence>
-                <xs:element ref="Person" minOccurs="0" maxOccurs="unbounded"/>
+                <xs:element ref="Laureates" minOccurs="0" maxOccurs="unbounded"/>
             </xs:sequence>
         </xs:complexType>
     </xs:element>
     
-    <xs:element name="Person">
+    <xs:element name="Laureates">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="FullName" type="xs:string"/>

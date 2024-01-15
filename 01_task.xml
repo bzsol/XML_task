@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <NobelPrizeWinners>
-    <Winner>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1903</Year>
             <ExactDate>1903-11-12</ExactDate>
@@ -10,8 +10,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>141358</Amount>
+            <Adjusted>8.830717E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1946</Year>
             <ExactDate>1946-11-14</ExactDate>
@@ -21,8 +25,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121524</Amount>
+            <Adjusted>2.83645E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1956</Year>
             <ExactDate>1956-11-01</ExactDate>
@@ -32,8 +40,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>200123</Amount>
+            <Adjusted>3.057995E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1958</Year>
             <ExactDate>1958-10-28</ExactDate>
@@ -43,8 +55,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>214559</Amount>
+            <Adjusted>2.99818E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1963</Year>
             <ExactDate>1963-11-05</ExactDate>
@@ -54,8 +70,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>265000</Amount>
+            <Adjusted>3.216343E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1964</Year>
             <ExactDate>1964-10-29</ExactDate>
@@ -65,8 +85,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>273000</Amount>
+            <Adjusted>3.203602E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1965</Year>
             <ExactDate>1965-10-21</ExactDate>
@@ -76,8 +100,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>282000</Amount>
+            <Adjusted>3.152463E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1967</Year>
             <ExactDate>1967-10-30</ExactDate>
@@ -87,8 +115,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>320000</Amount>
+            <Adjusted>3.221232E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1972</Year>
             <ExactDate>1972-10-20</ExactDate>
@@ -98,8 +130,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>480000</Amount>
+            <Adjusted>3.790037E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1972</Year>
             <ExactDate>1972-10-20</ExactDate>
@@ -109,8 +145,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>480000</Amount>
+            <Adjusted>3.790037E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1973</Year>
             <ExactDate>1973-10-23</ExactDate>
@@ -120,8 +160,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>510000</Amount>
+            <Adjusted>3.774355E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1975</Year>
             <ExactDate>1975-10-17</ExactDate>
@@ -131,8 +175,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>630000</Amount>
+            <Adjusted>3.856254E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1977</Year>
             <ExactDate>1977-10-11</ExactDate>
@@ -142,8 +190,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>700000</Amount>
+            <Adjusted>3.490141E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1978</Year>
             <ExactDate>1978-10-17</ExactDate>
@@ -153,8 +205,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>725000</Amount>
+            <Adjusted>3.283369E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1979</Year>
             <ExactDate>1979-10-15</ExactDate>
@@ -164,8 +220,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>800000</Amount>
+            <Adjusted>3.384861E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1980</Year>
             <ExactDate>1980-10-14</ExactDate>
@@ -175,8 +235,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>880000</Amount>
+            <Adjusted>3.273415E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1981</Year>
             <ExactDate>1981-10-19</ExactDate>
@@ -186,8 +250,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E6</Amount>
+            <Adjusted>3.31875E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1986</Year>
             <ExactDate>1986-10-15</ExactDate>
@@ -197,8 +265,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.0E6</Amount>
+            <Adjusted>4.642623E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1986</Year>
             <ExactDate>1986-10-15</ExactDate>
@@ -208,8 +280,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.0E6</Amount>
+            <Adjusted>4.642623E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1987</Year>
             <ExactDate>1987-10-14</ExactDate>
@@ -219,8 +295,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.175E6</Amount>
+            <Adjusted>4.842453E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1988</Year>
             <ExactDate>1988-10-19</ExactDate>
@@ -230,8 +310,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.5E6</Amount>
+            <Adjusted>5.262636E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1988</Year>
             <ExactDate>1988-10-19</ExactDate>
@@ -241,8 +325,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.5E6</Amount>
+            <Adjusted>5.262636E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1989</Year>
             <ExactDate>1989-10-12</ExactDate>
@@ -252,8 +340,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>3.0E6</Amount>
+            <Adjusted>5.93849E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1990</Year>
             <ExactDate>1990-10-17</ExactDate>
@@ -263,8 +355,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>4.0E6</Amount>
+            <Adjusted>7.16962E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1995</Year>
             <ExactDate>1995-10-11</ExactDate>
@@ -274,8 +370,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.2E6</Amount>
+            <Adjusted>1.0510515E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1996</Year>
             <ExactDate>1996-10-09</ExactDate>
@@ -285,8 +385,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.4E6</Amount>
+            <Adjusted>1.0750752E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1996</Year>
             <ExactDate>1996-10-09</ExactDate>
@@ -296,8 +400,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.4E6</Amount>
+            <Adjusted>1.0750752E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1997</Year>
             <ExactDate>1997-10-15</ExactDate>
@@ -307,8 +415,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.5E6</Amount>
+            <Adjusted>1.0844112E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1997</Year>
             <ExactDate>1997-10-15</ExactDate>
@@ -318,8 +430,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.5E6</Amount>
+            <Adjusted>1.0844112E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1998</Year>
             <ExactDate>1998-10-13</ExactDate>
@@ -329,8 +445,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.6E6</Amount>
+            <Adjusted>1.1003681E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2000</Year>
             <ExactDate>2000-10-10</ExactDate>
@@ -340,8 +460,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.2838146E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2000</Year>
             <ExactDate>2000-10-10</ExactDate>
@@ -351,8 +475,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.2838146E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2001</Year>
             <ExactDate>2001-10-10</ExactDate>
@@ -362,8 +490,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3927869E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2001</Year>
             <ExactDate>2001-10-09</ExactDate>
@@ -373,8 +505,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3927869E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2002</Year>
             <ExactDate>2002-10-09</ExactDate>
@@ -384,8 +520,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3632863E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2002</Year>
             <ExactDate>2002-10-08</ExactDate>
@@ -395,8 +535,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3632863E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2003</Year>
             <ExactDate>2003-10-07</ExactDate>
@@ -406,8 +550,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3375315E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2004</Year>
             <ExactDate>2004-10-06</ExactDate>
@@ -417,8 +565,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3324969E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2004</Year>
             <ExactDate>2004-10-05</ExactDate>
@@ -428,8 +580,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3324969E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2005</Year>
             <ExactDate>2005-10-05</ExactDate>
@@ -439,8 +595,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3266708E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2005</Year>
             <ExactDate>2005-10-04</ExactDate>
@@ -450,8 +610,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3266708E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2008</Year>
             <ExactDate>2008-10-08</ExactDate>
@@ -461,8 +625,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2377622E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2008</Year>
             <ExactDate>2008-10-07</ExactDate>
@@ -472,8 +640,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2377622E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2009</Year>
             <ExactDate>2009-10-07</ExactDate>
@@ -483,8 +655,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2413793E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2009</Year>
             <ExactDate>2009-10-06</ExactDate>
@@ -494,8 +670,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2413793E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2010</Year>
             <ExactDate>2010-10-06</ExactDate>
@@ -505,8 +685,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2256203E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2011</Year>
             <ExactDate>2011-10-04</ExactDate>
@@ -516,8 +700,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.1946007E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2013</Year>
             <ExactDate>2013-10-09</ExactDate>
@@ -527,8 +715,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.476854E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2014</Year>
             <ExactDate>2014-10-08</ExactDate>
@@ -538,8 +730,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.492737E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2014</Year>
             <ExactDate>2014-10-07</ExactDate>
@@ -549,8 +745,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.492737E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2015</Year>
             <ExactDate>2015-10-07</ExactDate>
@@ -560,8 +760,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.498044E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2016</Year>
             <ExactDate>2016-10-05</ExactDate>
@@ -571,8 +775,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.403431E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2016</Year>
             <ExactDate>2016-10-04</ExactDate>
@@ -582,8 +790,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.403431E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2017</Year>
             <ExactDate>2017-10-04</ExactDate>
@@ -593,8 +805,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.039478E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2017</Year>
             <ExactDate>2017-10-03</ExactDate>
@@ -604,8 +820,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.039478E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2018</Year>
             <ExactDate>2018-10-03</ExactDate>
@@ -615,8 +835,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.01952E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2018</Year>
             <ExactDate>2018-10-02</ExactDate>
@@ -626,8 +850,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.01952E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2019</Year>
             <ExactDate>2019-10-09</ExactDate>
@@ -637,8 +865,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.001362E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2019</Year>
             <ExactDate>2019-10-08</ExactDate>
@@ -648,8 +880,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>9.0E6</Amount>
+            <Adjusted>1.001362E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2020</Year>
             <ExactDate>2020-10-06</ExactDate>
@@ -659,8 +895,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.1074035E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2021</Year>
             <ExactDate>2021-10-05</ExactDate>
@@ -670,8 +910,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.0836735E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2022</Year>
             <ExactDate>2022-10-05</ExactDate>
@@ -681,8 +925,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.0E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2022</Year>
             <ExactDate>2022-10-04</ExactDate>
@@ -692,8 +940,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.0E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2023</Year>
             <ExactDate>2023-10-04</ExactDate>
@@ -703,8 +955,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.1E7</Amount>
+            <Adjusted>1.1E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2023</Year>
             <ExactDate>2023-10-03</ExactDate>
@@ -714,8 +970,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.1E7</Amount>
+            <Adjusted>1.1E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1902</Year>
             <ExactDate>1902-11-11</ExactDate>
@@ -725,8 +985,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>141847</Amount>
+            <Adjusted>9.129789E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1909</Year>
             <ExactDate>1909-11-09</ExactDate>
@@ -736,8 +1000,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>139800</Amount>
+            <Adjusted>8.025276E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1912</Year>
             <ExactDate>1912-11-12</ExactDate>
@@ -747,8 +1015,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140476</Amount>
+            <Adjusted>7.650539E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1915</Year>
             <ExactDate>1915-11-12</ExactDate>
@@ -758,8 +1030,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>149223</Amount>
+            <Adjusted>7.043326E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1925</Year>
             <ExactDate>1926-11-11</ExactDate>
@@ -769,8 +1045,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>118165</Amount>
+            <Adjusted>3.637427E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1927</Year>
             <ExactDate>1927-11-10</ExactDate>
@@ -780,8 +1060,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>126501</Amount>
+            <Adjusted>4.071032E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1929</Year>
             <ExactDate>1929-11-12</ExactDate>
@@ -791,8 +1075,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>172760</Amount>
+            <Adjusted>5.559731E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1931</Year>
             <ExactDate>1931-11-12</ExactDate>
@@ -802,8 +1090,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>173206</Amount>
+            <Adjusted>5.933702E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1933</Year>
             <ExactDate>1933-11-09</ExactDate>
@@ -813,8 +1105,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>170332</Amount>
+            <Adjusted>6.131952E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1935</Year>
             <ExactDate>1935-11-14</ExactDate>
@@ -824,8 +1120,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159917</Amount>
+            <Adjusted>5.661062E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1936</Year>
             <ExactDate>1936-11-12</ExactDate>
@@ -835,8 +1135,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159850</Amount>
+            <Adjusted>5.565925E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1937</Year>
             <ExactDate>1937-11-11</ExactDate>
@@ -846,8 +1150,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>158463</Amount>
+            <Adjusted>5.342467E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1937</Year>
             <ExactDate>1937-11-11</ExactDate>
@@ -857,8 +1165,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>158463</Amount>
+            <Adjusted>5.342467E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1939</Year>
             <ExactDate>1939-11-09</ExactDate>
@@ -868,8 +1180,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>148822</Amount>
+            <Adjusted>4.789363E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1950</Year>
             <ExactDate>1950-11-10</ExactDate>
@@ -879,8 +1195,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>164304</Amount>
+            <Adjusted>3.455264E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1951</Year>
             <ExactDate>1951-11-15</ExactDate>
@@ -890,8 +1210,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>167612</Amount>
+            <Adjusted>3.042802E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1951</Year>
             <ExactDate>1951-11-15</ExactDate>
@@ -901,8 +1225,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>167612</Amount>
+            <Adjusted>3.042802E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1952</Year>
             <ExactDate>1952-11-06</ExactDate>
@@ -912,8 +1240,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>171135</Amount>
+            <Adjusted>2.884847E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1952</Year>
             <ExactDate>1952-11-06</ExactDate>
@@ -923,8 +1255,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>171135</Amount>
+            <Adjusted>2.884847E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1954</Year>
             <ExactDate>1954-11-03</ExactDate>
@@ -934,8 +1270,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>181647</Amount>
+            <Adjusted>2.990839E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1955</Year>
             <ExactDate>1955-11-02</ExactDate>
@@ -945,8 +1285,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>190214</Amount>
+            <Adjusted>3.037703E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1956</Year>
             <ExactDate>1956-11-01</ExactDate>
@@ -956,8 +1300,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>200123</Amount>
+            <Adjusted>3.057995E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1957</Year>
             <ExactDate>1957-10-31</ExactDate>
@@ -967,8 +1315,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>208629</Amount>
+            <Adjusted>3.056055E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1959</Year>
             <ExactDate>1959-10-26</ExactDate>
@@ -978,8 +1330,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>220678</Amount>
+            <Adjusted>3.06353E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1961</Year>
             <ExactDate>1961-11-02</ExactDate>
@@ -989,8 +1345,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>250233</Amount>
+            <Adjusted>3.260705E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1962</Year>
             <ExactDate>1962-11-01</ExactDate>
@@ -1000,8 +1360,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>257220</Amount>
+            <Adjusted>3.213737E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1963</Year>
             <ExactDate>1963-11-05</ExactDate>
@@ -1011,8 +1375,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>265000</Amount>
+            <Adjusted>3.216343E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1969</Year>
             <ExactDate>1969-10-30</ExactDate>
@@ -1022,8 +1390,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>375000</Amount>
+            <Adjusted>3.604072E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1970</Year>
             <ExactDate>1970-10-27</ExactDate>
@@ -1033,8 +1405,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>400000</Amount>
+            <Adjusted>3.6E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1973</Year>
             <ExactDate>1973-10-23</ExactDate>
@@ -1044,8 +1420,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>510000</Amount>
+            <Adjusted>3.774355E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1974</Year>
             <ExactDate>1974-10-15</ExactDate>
@@ -1055,8 +1435,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>550000</Amount>
+            <Adjusted>3.696835E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1975</Year>
             <ExactDate>1975-10-17</ExactDate>
@@ -1066,8 +1450,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>630000</Amount>
+            <Adjusted>3.856254E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1976</Year>
             <ExactDate>1976-10-18</ExactDate>
@@ -1077,8 +1465,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>681000</Amount>
+            <Adjusted>3.786503E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1979</Year>
             <ExactDate>1979-10-15</ExactDate>
@@ -1088,8 +1480,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>800000</Amount>
+            <Adjusted>3.384861E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1980</Year>
             <ExactDate>1980-10-14</ExactDate>
@@ -1099,8 +1495,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>880000</Amount>
+            <Adjusted>3.273415E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1981</Year>
             <ExactDate>1981-10-19</ExactDate>
@@ -1110,8 +1510,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E6</Amount>
+            <Adjusted>3.31875E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1983</Year>
             <ExactDate>1983-10-19</ExactDate>
@@ -1121,8 +1525,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.5E6</Amount>
+            <Adjusted>4.208719E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1984</Year>
             <ExactDate>1984-10-17</ExactDate>
@@ -1132,8 +1540,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.65E6</Amount>
+            <Adjusted>4.284352E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1985</Year>
             <ExactDate>1985-10-16</ExactDate>
@@ -1143,8 +1555,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.8E6</Amount>
+            <Adjusted>4.354442E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1987</Year>
             <ExactDate>1987-10-14</ExactDate>
@@ -1154,8 +1570,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>2.175E6</Amount>
+            <Adjusted>4.842453E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1989</Year>
             <ExactDate>1989-10-12</ExactDate>
@@ -1165,8 +1585,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>3.0E6</Amount>
+            <Adjusted>5.93849E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1993</Year>
             <ExactDate>1993-10-13</ExactDate>
@@ -1176,8 +1600,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.7E6</Amount>
+            <Adjusted>1.0245356E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1993</Year>
             <ExactDate>1993-10-13</ExactDate>
@@ -1187,8 +1615,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.7E6</Amount>
+            <Adjusted>1.0245356E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1994</Year>
             <ExactDate>1994-10-12</ExactDate>
@@ -1198,8 +1630,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.0E6</Amount>
+            <Adjusted>1.0477801E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1995</Year>
             <ExactDate>1995-10-11</ExactDate>
@@ -1209,8 +1645,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.2E6</Amount>
+            <Adjusted>1.0510515E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1998</Year>
             <ExactDate>1998-10-13</ExactDate>
@@ -1220,8 +1660,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.6E6</Amount>
+            <Adjusted>1.1003681E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1999</Year>
             <ExactDate>1999-10-12</ExactDate>
@@ -1231,8 +1675,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.9E6</Amount>
+            <Adjusted>1.1383718E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2003</Year>
             <ExactDate>2003-10-08</ExactDate>
@@ -1242,8 +1690,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3375315E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2006</Year>
             <ExactDate>2006-10-03</ExactDate>
@@ -1253,8 +1705,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3086876E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2007</Year>
             <ExactDate>2007-10-09</ExactDate>
@@ -1264,8 +1720,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2802893E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2010</Year>
             <ExactDate>2010-10-05</ExactDate>
@@ -1275,8 +1735,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2256203E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2012</Year>
             <ExactDate>2012-10-10</ExactDate>
@@ -1286,8 +1750,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.471572E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2012</Year>
             <ExactDate>2012-10-09</ExactDate>
@@ -1297,8 +1765,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.471572E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2013</Year>
             <ExactDate>2013-10-08</ExactDate>
@@ -1308,8 +1780,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.476854E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2015</Year>
             <ExactDate>2015-10-06</ExactDate>
@@ -1319,8 +1795,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>8.0E6</Amount>
+            <Adjusted>9.498044E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2020</Year>
             <ExactDate>2020-10-07</ExactDate>
@@ -1330,8 +1810,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.1074035E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2021</Year>
             <ExactDate>2021-10-06</ExactDate>
@@ -1341,8 +1825,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.0836735E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1901</Year>
             <ExactDate>1901-11-12</ExactDate>
@@ -1352,8 +1840,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>150782</Amount>
+            <Adjusted>9.704878E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1901</Year>
             <ExactDate>1901-11-12</ExactDate>
@@ -1363,8 +1855,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>150782</Amount>
+            <Adjusted>9.704878E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1902</Year>
             <ExactDate>1902-11-11</ExactDate>
@@ -1374,8 +1870,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>141847</Amount>
+            <Adjusted>9.129789E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1903</Year>
             <ExactDate>1903-11-12</ExactDate>
@@ -1385,8 +1885,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>141358</Amount>
+            <Adjusted>8.830717E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1904</Year>
             <ExactDate>1904-11-08</ExactDate>
@@ -1396,8 +1900,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140859</Amount>
+            <Adjusted>8.799545E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1904</Year>
             <ExactDate>1904-11-08</ExactDate>
@@ -1407,30 +1915,40 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140859</Amount>
+            <Adjusted>8.799545E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1905</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>1</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138089</Amount>
+            <Adjusted>8.626501E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1905</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>1</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138089</Amount>
+            <Adjusted>8.626501E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1906</Year>
             <ExactDate>1906-11-12</ExactDate>
@@ -1440,8 +1958,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138536</Amount>
+            <Adjusted>8.407156E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1906</Year>
             <ExactDate>1906-11-12</ExactDate>
@@ -1451,8 +1973,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138536</Amount>
+            <Adjusted>8.407156E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1907</Year>
             <ExactDate>1907-11-12</ExactDate>
@@ -1462,8 +1988,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138796</Amount>
+            <Adjusted>7.967641E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1907</Year>
             <ExactDate>1907-11-12</ExactDate>
@@ -1473,8 +2003,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138796</Amount>
+            <Adjusted>7.967641E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1908</Year>
             <ExactDate>1908-11-10</ExactDate>
@@ -1484,8 +2018,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>139800</Amount>
+            <Adjusted>8.025276E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1908</Year>
             <ExactDate>1908-11-10</ExactDate>
@@ -1495,8 +2033,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>139800</Amount>
+            <Adjusted>8.025276E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1909</Year>
             <ExactDate>1909-11-09</ExactDate>
@@ -1506,8 +2048,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>139800</Amount>
+            <Adjusted>8.025276E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1910</Year>
             <ExactDate>1910-11-12</ExactDate>
@@ -1517,8 +2063,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140703</Amount>
+            <Adjusted>8.077113E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1910</Year>
             <ExactDate>1910-11-05</ExactDate>
@@ -1528,8 +2078,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140703</Amount>
+            <Adjusted>8.077113E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1911</Year>
             <ExactDate>1911-11-07</ExactDate>
@@ -1539,8 +2093,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140695</Amount>
+            <Adjusted>8.301005E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1911</Year>
             <ExactDate>1911-11-07</ExactDate>
@@ -1550,8 +2108,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140695</Amount>
+            <Adjusted>8.301005E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1912</Year>
             <ExactDate>1912-11-12</ExactDate>
@@ -1561,8 +2123,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>140476</Amount>
+            <Adjusted>7.650539E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1913</Year>
             <ExactDate>1913-11-11</ExactDate>
@@ -1572,8 +2138,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>143010</Amount>
+            <Adjusted>7.788545E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1913</Year>
             <ExactDate>1913-11-11</ExactDate>
@@ -1583,8 +2153,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>143010</Amount>
+            <Adjusted>7.788545E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1914</Year>
             <ExactDate>1915-11-11</ExactDate>
@@ -1594,8 +2168,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>146900</Amount>
+            <Adjusted>8.0004E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1914</Year>
             <ExactDate>1915-11-11</ExactDate>
@@ -1605,8 +2183,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>146900</Amount>
+            <Adjusted>8.0004E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1915</Year>
             <ExactDate>1915-11-11</ExactDate>
@@ -1616,8 +2198,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>149223</Amount>
+            <Adjusted>7.043326E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1917</Year>
             <ExactDate>1918-11-12</ExactDate>
@@ -1627,8 +2213,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>133823</Amount>
+            <Adjusted>4.441251E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1918</Year>
             <ExactDate>1919-11-13</ExactDate>
@@ -1638,8 +2228,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138198</Amount>
+            <Adjusted>3.225632E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1918</Year>
             <ExactDate>1919-11-13</ExactDate>
@@ -1649,8 +2243,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138198</Amount>
+            <Adjusted>3.225632E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1919</Year>
             <ExactDate>1919-11-13</ExactDate>
@@ -1660,8 +2258,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>133127</Amount>
+            <Adjusted>2.692969E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1920</Year>
             <ExactDate>1921-11-10</ExactDate>
@@ -1671,8 +2273,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>134100</Amount>
+            <Adjusted>2.712651E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1920</Year>
             <ExactDate>1920-11-11</ExactDate>
@@ -1682,8 +2288,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>134100</Amount>
+            <Adjusted>2.712651E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1921</Year>
             <ExactDate>1922-11-09</ExactDate>
@@ -1693,8 +2303,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121573</Amount>
+            <Adjusted>2.869123E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1921</Year>
             <ExactDate>1922-11-09</ExactDate>
@@ -1704,8 +2318,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121573</Amount>
+            <Adjusted>2.869123E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1922</Year>
             <ExactDate>1922-11-09</ExactDate>
@@ -1715,8 +2333,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>122483</Amount>
+            <Adjusted>3.563752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1922</Year>
             <ExactDate>1922-11-09</ExactDate>
@@ -1726,8 +2348,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>122483</Amount>
+            <Adjusted>3.563752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1923</Year>
             <ExactDate>1923-11-13</ExactDate>
@@ -1737,8 +2363,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>114935</Amount>
+            <Adjusted>3.590029E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1923</Year>
             <ExactDate>1923-11-13</ExactDate>
@@ -1748,8 +2378,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>114935</Amount>
+            <Adjusted>3.590029E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1924</Year>
             <ExactDate>1925-11-12</ExactDate>
@@ -1759,8 +2393,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>116719</Amount>
+            <Adjusted>3.645752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1925</Year>
             <ExactDate>1926-11-11</ExactDate>
@@ -1770,8 +2408,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>118165</Amount>
+            <Adjusted>3.637427E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1926</Year>
             <ExactDate>1926-11-11</ExactDate>
@@ -1781,8 +2423,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>116960</Amount>
+            <Adjusted>3.707807E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1926</Year>
             <ExactDate>1926-11-11</ExactDate>
@@ -1792,8 +2438,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>116960</Amount>
+            <Adjusted>3.707807E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1927</Year>
             <ExactDate>1928-11-13</ExactDate>
@@ -1803,8 +2453,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>126501</Amount>
+            <Adjusted>4.071032E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1928</Year>
             <ExactDate>1928-11-13</ExactDate>
@@ -1814,8 +2468,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>156939</Amount>
+            <Adjusted>5.050582E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1928</Year>
             <ExactDate>1929-11-12</ExactDate>
@@ -1825,8 +2483,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>156939</Amount>
+            <Adjusted>5.050582E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1929</Year>
             <ExactDate>1929-11-12</ExactDate>
@@ -1836,8 +2498,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>172760</Amount>
+            <Adjusted>5.559731E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1930</Year>
             <ExactDate>1930-11-13</ExactDate>
@@ -1847,8 +2513,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>172947</Amount>
+            <Adjusted>5.739679E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1930</Year>
             <ExactDate>1930-11-13</ExactDate>
@@ -1858,8 +2528,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>172947</Amount>
+            <Adjusted>5.739679E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1932</Year>
             <ExactDate>1932-11-10</ExactDate>
@@ -1869,8 +2543,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>171753</Amount>
+            <Adjusted>5.980383E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1932</Year>
             <ExactDate>1933-11-09</ExactDate>
@@ -1880,8 +2558,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>171753</Amount>
+            <Adjusted>5.980383E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1934</Year>
             <ExactDate>1934-11-15</ExactDate>
@@ -1891,8 +2573,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>162608</Amount>
+            <Adjusted>5.853888E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1935</Year>
             <ExactDate>1935-11-14</ExactDate>
@@ -1902,8 +2588,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159917</Amount>
+            <Adjusted>5.661062E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1936</Year>
             <ExactDate>1936-11-12</ExactDate>
@@ -1913,8 +2603,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159850</Amount>
+            <Adjusted>5.565925E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1938</Year>
             <ExactDate>1939-11-09</ExactDate>
@@ -1924,8 +2618,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>155077</Amount>
+            <Adjusted>5.146618E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1938</Year>
             <ExactDate>1938-11-10</ExactDate>
@@ -1935,8 +2633,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>155077</Amount>
+            <Adjusted>5.146618E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1939</Year>
             <ExactDate>1939-11-09</ExactDate>
@@ -1946,8 +2648,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>148822</Amount>
+            <Adjusted>4.789363E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1943</Year>
             <ExactDate>1944-11-09</ExactDate>
@@ -1957,8 +2663,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>123691</Amount>
+            <Adjusted>2.855649E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1943</Year>
             <ExactDate>1944-11-09</ExactDate>
@@ -1968,8 +2678,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>123691</Amount>
+            <Adjusted>2.855649E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1944</Year>
             <ExactDate>1945-11-15</ExactDate>
@@ -1979,8 +2693,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121841</Amount>
+            <Adjusted>2.843849E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1944</Year>
             <ExactDate>1944-11-09</ExactDate>
@@ -1990,8 +2708,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121841</Amount>
+            <Adjusted>2.843849E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1945</Year>
             <ExactDate>1945-11-15</ExactDate>
@@ -2001,8 +2723,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121333</Amount>
+            <Adjusted>2.831992E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1945</Year>
             <ExactDate>1945-11-15</ExactDate>
@@ -2012,8 +2738,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121333</Amount>
+            <Adjusted>2.831992E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1946</Year>
             <ExactDate>1946-11-14</ExactDate>
@@ -2023,8 +2753,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>121524</Amount>
+            <Adjusted>2.83645E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1947</Year>
             <ExactDate>1947-11-13</ExactDate>
@@ -2034,8 +2768,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>146115</Amount>
+            <Adjusted>3.301577E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1947</Year>
             <ExactDate>1947-11-13</ExactDate>
@@ -2045,8 +2783,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>146115</Amount>
+            <Adjusted>3.301577E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1948</Year>
             <ExactDate>1948-11-04</ExactDate>
@@ -2056,8 +2798,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159773</Amount>
+            <Adjusted>3.462835E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1948</Year>
             <ExactDate>1948-11-04</ExactDate>
@@ -2067,8 +2813,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>159773</Amount>
+            <Adjusted>3.462835E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1949</Year>
             <ExactDate>1949-11-03</ExactDate>
@@ -2078,8 +2828,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>156290</Amount>
+            <Adjusted>3.3196E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1949</Year>
             <ExactDate>1949-11-03</ExactDate>
@@ -2089,8 +2843,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>156290</Amount>
+            <Adjusted>3.3196E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1950</Year>
             <ExactDate>1950-11-10</ExactDate>
@@ -2100,8 +2858,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>164304</Amount>
+            <Adjusted>3.455264E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1953</Year>
             <ExactDate>1953-11-04</ExactDate>
@@ -2111,8 +2873,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>175293</Amount>
+            <Adjusted>2.908768E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1953</Year>
             <ExactDate>1953-11-04</ExactDate>
@@ -2122,8 +2888,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>175293</Amount>
+            <Adjusted>2.908768E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1954</Year>
             <ExactDate>1954-11-03</ExactDate>
@@ -2133,8 +2903,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>181647</Amount>
+            <Adjusted>2.990839E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1955</Year>
             <ExactDate>1955-11-02</ExactDate>
@@ -2144,8 +2918,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>190214</Amount>
+            <Adjusted>3.037703E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1957</Year>
             <ExactDate>1957-10-31</ExactDate>
@@ -2155,8 +2933,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>208629</Amount>
+            <Adjusted>3.056055E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1958</Year>
             <ExactDate>1958-10-28</ExactDate>
@@ -2166,8 +2948,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>214559</Amount>
+            <Adjusted>2.99818E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1959</Year>
             <ExactDate>1959-10-26</ExactDate>
@@ -2177,8 +2963,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>220678</Amount>
+            <Adjusted>3.06353E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1960</Year>
             <ExactDate>1960-11-03</ExactDate>
@@ -2188,8 +2978,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>225987</Amount>
+            <Adjusted>3.018845E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1960</Year>
             <ExactDate>1960-11-03</ExactDate>
@@ -2199,8 +2993,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>225987</Amount>
+            <Adjusted>3.018845E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1961</Year>
             <ExactDate>1961-11-02</ExactDate>
@@ -2210,8 +3008,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>250233</Amount>
+            <Adjusted>3.260705E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1962</Year>
             <ExactDate>1962-11-01</ExactDate>
@@ -2221,8 +3023,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>257220</Amount>
+            <Adjusted>3.213737E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1964</Year>
             <ExactDate>1964-10-29</ExactDate>
@@ -2232,8 +3038,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>273000</Amount>
+            <Adjusted>3.203602E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1965</Year>
             <ExactDate>1965-10-21</ExactDate>
@@ -2243,8 +3053,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>282000</Amount>
+            <Adjusted>3.152463E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1966</Year>
             <ExactDate>1966-11-03</ExactDate>
@@ -2254,8 +3068,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>300000</Amount>
+            <Adjusted>3.154455E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1966</Year>
             <ExactDate>1966-11-03</ExactDate>
@@ -2265,8 +3083,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>300000</Amount>
+            <Adjusted>3.154455E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1967</Year>
             <ExactDate>1967-10-30</ExactDate>
@@ -2276,8 +3098,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>320000</Amount>
+            <Adjusted>3.221232E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1968</Year>
             <ExactDate>1968-10-30</ExactDate>
@@ -2287,8 +3113,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>350000</Amount>
+            <Adjusted>3.457674E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1968</Year>
             <ExactDate>1968-10-30</ExactDate>
@@ -2298,8 +3128,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>350000</Amount>
+            <Adjusted>3.457674E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1969</Year>
             <ExactDate>1969-10-30</ExactDate>
@@ -2309,8 +3143,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>375000</Amount>
+            <Adjusted>3.604072E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1970</Year>
             <ExactDate>1970-10-27</ExactDate>
@@ -2320,8 +3158,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>400000</Amount>
+            <Adjusted>3.6E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1971</Year>
             <ExactDate>1971-11-02</ExactDate>
@@ -2331,8 +3173,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>450000</Amount>
+            <Adjusted>3.762992E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1971</Year>
             <ExactDate>1971-11-02</ExactDate>
@@ -2342,8 +3188,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>450000</Amount>
+            <Adjusted>3.762992E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1974</Year>
             <ExactDate>1974-10-15</ExactDate>
@@ -2353,8 +3203,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>550000</Amount>
+            <Adjusted>3.696835E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1976</Year>
             <ExactDate>1976-10-18</ExactDate>
@@ -2364,8 +3218,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>681000</Amount>
+            <Adjusted>3.786503E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1977</Year>
             <ExactDate>1977-10-11</ExactDate>
@@ -2375,8 +3233,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>700000</Amount>
+            <Adjusted>3.490141E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1978</Year>
             <ExactDate>1978-10-17</ExactDate>
@@ -2386,8 +3248,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>725000</Amount>
+            <Adjusted>3.283369E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1982</Year>
             <ExactDate>1982-10-18</ExactDate>
@@ -2397,8 +3263,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.15E6</Amount>
+            <Adjusted>3.514532E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1982</Year>
             <ExactDate>1982-10-18</ExactDate>
@@ -2408,8 +3278,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.15E6</Amount>
+            <Adjusted>3.514532E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1983</Year>
             <ExactDate>1983-10-19</ExactDate>
@@ -2419,8 +3293,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.5E6</Amount>
+            <Adjusted>4.208719E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1984</Year>
             <ExactDate>1984-10-17</ExactDate>
@@ -2430,8 +3308,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.65E6</Amount>
+            <Adjusted>4.284352E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1985</Year>
             <ExactDate>1985-10-16</ExactDate>
@@ -2441,8 +3323,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.8E6</Amount>
+            <Adjusted>4.354442E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1990</Year>
             <ExactDate>1990-10-17</ExactDate>
@@ -2452,8 +3338,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>4.0E6</Amount>
+            <Adjusted>7.16962E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1991</Year>
             <ExactDate>1991-10-16</ExactDate>
@@ -2463,8 +3353,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.0E6</Amount>
+            <Adjusted>9.825752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1991</Year>
             <ExactDate>1991-10-16</ExactDate>
@@ -2474,8 +3368,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.0E6</Amount>
+            <Adjusted>9.825752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1992</Year>
             <ExactDate>1992-10-14</ExactDate>
@@ -2485,8 +3383,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.5E6</Amount>
+            <Adjusted>1.0403919E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1992</Year>
             <ExactDate>1992-10-14</ExactDate>
@@ -2496,8 +3398,12 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>6.5E6</Amount>
+            <Adjusted>1.0403919E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1994</Year>
             <ExactDate>1994-10-12</ExactDate>
@@ -2507,8 +3413,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.0E6</Amount>
+            <Adjusted>1.0477801E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1999</Year>
             <ExactDate>1999-10-12</ExactDate>
@@ -2518,8 +3428,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>7.9E6</Amount>
+            <Adjusted>1.1383718E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2006</Year>
             <ExactDate>2006-10-04</ExactDate>
@@ -2529,8 +3443,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.3086876E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2007</Year>
             <ExactDate>2007-10-10</ExactDate>
@@ -2540,8 +3458,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.2802893E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>2011</Year>
             <ExactDate>2011-10-05</ExactDate>
@@ -2551,8 +3473,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>1.0E7</Amount>
+            <Adjusted>1.1946007E7</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1916</Year>
             <ExactDate>1916-10-01</ExactDate>
@@ -2562,8 +3488,12 @@
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>131793</Amount>
+            <Adjusted>5.488791E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1916</Year>
             <ExactDate>1916-10-01</ExactDate>
@@ -2573,137 +3503,177 @@
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>131793</Amount>
+            <Adjusted>5.488791E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1917</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>133823</Amount>
+            <Adjusted>4.441251E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1919</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>133127</Amount>
+            <Adjusted>2.692969E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1924</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>116719</Amount>
+            <Adjusted>3.645752E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1931</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>173206</Amount>
+            <Adjusted>5.933702E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1933</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>170332</Amount>
+            <Adjusted>6.131952E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1934</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>162608</Amount>
+            <Adjusted>5.853888E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1940</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138570</Amount>
+            <Adjusted>3.977334E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1940</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>138570</Amount>
+            <Adjusted>3.977334E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1941</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>131496</Amount>
+            <Adjusted>3.32497E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1941</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>131496</Amount>
+            <Adjusted>3.32497E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1942</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Chemistry</ShortenedEnglish>
             <FullName>The Nobel Prize in Chemistry</FullName>
         </Category>
-    </Winner>
-    <Winner>
+        <Prize>
+            <Amount>131891</Amount>
+            <Adjusted>3.112628E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
+    <WinnersWhoWonChemistryAndPhysics>
         <AwardDate>
             <Year>1942</Year>
-            <ExactDate>DNE</ExactDate>
         </AwardDate>
         <NumberOLaureates>0</NumberOLaureates>
         <Category>
             <ShortenedEnglish>Physics</ShortenedEnglish>
             <FullName>The Nobel Prize in Physics</FullName>
         </Category>
-    </Winner>
+        <Prize>
+            <Amount>131891</Amount>
+            <Adjusted>3.112628E6</Adjusted>
+        </Prize>
+    </WinnersWhoWonChemistryAndPhysics>
 </NobelPrizeWinners>

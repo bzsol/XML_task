@@ -8,6 +8,7 @@
             <AwardYear>2014</AwardYear>
             <AwardCategory>Peace</AwardCategory>
         </NobelPrize>
+        <Age>27</Age>
     </Person>
     <Person>
         <FullName>Nadia Murad</FullName>
@@ -17,5 +18,6 @@
             <AwardYear>2018</AwardYear>
             <AwardCategory>Peace</AwardCategory>
         </NobelPrize>
+        <Age>31</Age>
     </Person>
 </YoungAfricanNobelPrizeWinners>
